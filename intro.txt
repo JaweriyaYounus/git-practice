@@ -1,3 +1,5 @@
 Hey I am Jaweriya.
 This is my first Git hub Assignment.
 I am learning git and GitHub.
+
+I am practicing branching in Git!
